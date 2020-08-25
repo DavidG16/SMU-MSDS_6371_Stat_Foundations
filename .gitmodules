@@ -1,0 +1,3 @@
+[submodule "MSDS_6371_Stat_Foundations"]
+	path = MSDS_6371_Stat_Foundations
+	url = https://github.com/BivinSadler/MSDS_6371_Stat_Foundations.git
